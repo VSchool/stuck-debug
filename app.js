@@ -6,10 +6,10 @@ var option = 'undecided';
 while(option != 'fight bears'){
   ask.keyInSelect(options, "What would you like to do today?: ");
   if(option = 'pick flowers'){
-    console.log("You pick some flowers. You make a bouquet, but no one complements it.");
+    console.log("You pick some flowers. You make a bouquet.");
   } else {
-    console.log("You shoot guns. It makes you feel powerful. Finally you have control over something in your life.");
+    console.log("You shoot guns.");
   }
 }
 
-console.log("You fought a bear and got eaten!");
+console.log("You fought a bear and got beat up!");
