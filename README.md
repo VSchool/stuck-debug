@@ -3,7 +3,7 @@
 In your assignments/exercises folder in terminal, copy and paste the following:
 
 ```
-git clone https://github.com/VSchool/stuck-debug.git && cd stuck-debug && rm -rf .git/
+git clone https://github.com/VSchool/stuck-debug.git && cd stuck-debug && rm -rf .git/ && npm install
 ```
 
 ### Goal:
